@@ -6,5 +6,6 @@
   "repository": "https://github.com/EduardoVa/vue-google-identity-login-btn",
   "author": "Eduardo <eduardovaldezaguirre@gmail.com>",
   "license": "MIT",
+  "keywords": [ "google-login-button", "identity", "OAuth", "vue", "sign-in" ],
   "private": false
 }

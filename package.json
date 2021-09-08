@@ -1,6 +1,6 @@
 {
   "name": "vue-google-identity-login-btn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple login button for vue",
   "main": "index.js",
   "repository": "https://github.com/EduardoVa/vue-google-identity-login-btn",

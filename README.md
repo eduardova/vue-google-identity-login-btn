@@ -74,6 +74,10 @@ export default {
 ```
 <br>
 
+> Warning: If you are seeing this message and you have issues (the Google button is not showing and you have an error in the console), probably you need to specify the `width` property with an Number value
+> ( `v-google-identity-login-btn="{ clientId, width: 300 }">` ).
+> you can see more details [here](https://github.com/eduardova/vue-google-identity-login-btn/pull/1)
+
 ### `important:` The container `id` (in this case `google-login-btn`) is required.
 
 <br>
@@ -109,7 +113,7 @@ text|optional|string|"continue_with"
 size|optional|string|"large"
 locale|optional|string|"es-419"
 logo_alignment|optional|string|"center"
-width|optional|string|"300"
+width|optional|string|"300px"
 
 <br>
 

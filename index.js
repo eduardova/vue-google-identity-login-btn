@@ -15,7 +15,7 @@ export default Vue.directive('google-identity-login-btn', {
       size: binding.value.size || "large",
       locale: binding.value.locale || "es-419",
       logo_alignment: binding.value.logo_alignment || "center",
-      width: binding.value.width || '300'
+      width: binding.value.width || '300px'
     };
 
     const googleLoginButtonId = el.id;
